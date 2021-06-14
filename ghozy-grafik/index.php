@@ -1,4 +1,6 @@
 <?php
+<h1> Muhammad Fariz Bintang </h1>
+<h2> Tambahan Baru </h2>
 //koneksi ke database
 $conn = new mysqli("localhost", "root", "ghozy123", "ghozy_m5");
 if ($conn->connect_errno){
